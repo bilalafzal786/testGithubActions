@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Selenium Suite]" verbose="0">
+  <test thread-count="5" name="Delete Task(failed)" verbose="0">
+    <classes>
+      <class name="tasktracker.tests.login.homepage.DeleteTask">
+        <methods>
+          <include name="setUp"/>
+          <include name="deleteTask"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tasktracker.tests.login.homepage.DeleteTask -->
+    </classes>
+  </test> <!-- Delete Task(failed) -->
+</suite> <!-- Failed suite [Selenium Suite] -->

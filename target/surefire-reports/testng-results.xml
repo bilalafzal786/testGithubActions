@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-30T14:37:31 PKT" name="Selenium Suite" finished-at="2025-04-30T14:40:29 PKT" duration-ms="177911">
+    <groups>
+    </groups>
+    <test started-at="2025-04-30T14:37:31 PKT" name="Add new Task" finished-at="2025-04-30T14:39:03 PKT" duration-ms="91815">
+      <class name="tasktracker.tests.login.homepage.AddNewTaskTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95]" started-at="2025-04-30T14:37:31 PKT" name="setUp" finished-at="2025-04-30T14:38:34 PKT" duration-ms="63151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testNewTask(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95]" started-at="2025-04-30T14:38:34 PKT" name="testNewTask" data-provider="AddTaskData" finished-at="2025-04-30T14:38:43 PKT" duration-ms="9539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestClient]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[T001]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[It is just for testing purposes]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Daniyal, Moiz, Bilal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Help Desk]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Calls]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Just testing notes]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Duration Period]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewTask -->
+        <test-method is-config="true" signature="takeFailedResultScreenshot(org.testng.ITestResult)[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95]" started-at="2025-04-30T14:38:43 PKT" name="takeFailedResultScreenshot" finished-at="2025-04-30T14:38:43 PKT" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testNewTask status=SUCCESS method=AddNewTaskTest.testNewTask(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeFailedResultScreenshot -->
+        <test-method signature="testNewTask(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95]" started-at="2025-04-30T14:38:43 PKT" name="testNewTask" data-provider="AddTaskData" finished-at="2025-04-30T14:38:53 PKT" duration-ms="9280" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestClient]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[T002]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[It is just for testing purposes]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Daniyal, Moiz, Bilal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Help Desk]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Calls]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Just testing notes]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Duration Period]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewTask -->
+        <test-method is-config="true" signature="takeFailedResultScreenshot(org.testng.ITestResult)[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95]" started-at="2025-04-30T14:38:53 PKT" name="takeFailedResultScreenshot" finished-at="2025-04-30T14:38:53 PKT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testNewTask status=SUCCESS method=AddNewTaskTest.testNewTask(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeFailedResultScreenshot -->
+        <test-method signature="testNewTask(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95]" started-at="2025-04-30T14:38:53 PKT" name="testNewTask" data-provider="AddTaskData" finished-at="2025-04-30T14:39:02 PKT" duration-ms="9375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestClient]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[T003]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[It is just for testing purposes]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Daniyal, Moiz, Bilal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Help Desk]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Calls]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Just testing notes]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Duration Period]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewTask -->
+        <test-method is-config="true" signature="takeFailedResultScreenshot(org.testng.ITestResult)[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95]" started-at="2025-04-30T14:39:02 PKT" name="takeFailedResultScreenshot" finished-at="2025-04-30T14:39:02 PKT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testNewTask status=SUCCESS method=AddNewTaskTest.testNewTask(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeFailedResultScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tasktracker.tests.login.homepage.AddNewTaskTest@6b81ce95]" started-at="2025-04-30T14:39:02 PKT" name="tearDown" finished-at="2025-04-30T14:39:03 PKT" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tasktracker.tests.login.homepage.AddNewTaskTest -->
+    </test> <!-- Add new Task -->
+    <test started-at="2025-04-30T14:39:03 PKT" name="Edit Task" finished-at="2025-04-30T14:39:48 PKT" duration-ms="45563">
+      <class name="tasktracker.tests.login.homepage.EditTask">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tasktracker.tests.login.homepage.EditTask@130d63be]" started-at="2025-04-30T14:39:03 PKT" name="setUp" finished-at="2025-04-30T14:39:42 PKT" duration-ms="38990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="editTask()[pri:0, instance:tasktracker.tests.login.homepage.EditTask@130d63be]" started-at="2025-04-30T14:39:42 PKT" name="editTask" finished-at="2025-04-30T14:39:48 PKT" duration-ms="6172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editTask -->
+        <test-method is-config="true" signature="takeFailedResultScreenshot(org.testng.ITestResult)[pri:0, instance:tasktracker.tests.login.homepage.EditTask@130d63be]" started-at="2025-04-30T14:39:48 PKT" name="takeFailedResultScreenshot" finished-at="2025-04-30T14:39:48 PKT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=editTask status=SUCCESS method=EditTask.editTask()[pri:0, instance:tasktracker.tests.login.homepage.EditTask@130d63be] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeFailedResultScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tasktracker.tests.login.homepage.EditTask@130d63be]" started-at="2025-04-30T14:39:48 PKT" name="tearDown" finished-at="2025-04-30T14:39:48 PKT" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tasktracker.tests.login.homepage.EditTask -->
+    </test> <!-- Edit Task -->
+    <test started-at="2025-04-30T14:39:48 PKT" name="Delete Task" finished-at="2025-04-30T14:40:29 PKT" duration-ms="40472">
+      <class name="tasktracker.tests.login.homepage.DeleteTask">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tasktracker.tests.login.homepage.DeleteTask@1283bb96]" started-at="2025-04-30T14:39:48 PKT" name="setUp" finished-at="2025-04-30T14:40:23 PKT" duration-ms="34915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteTask()[pri:0, instance:tasktracker.tests.login.homepage.DeleteTask@1283bb96]" started-at="2025-04-30T14:40:23 PKT" name="deleteTask" finished-at="2025-04-30T14:40:28 PKT" duration-ms="5268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTask -->
+        <test-method is-config="true" signature="takeFailedResultScreenshot(org.testng.ITestResult)[pri:0, instance:tasktracker.tests.login.homepage.DeleteTask@1283bb96]" started-at="2025-04-30T14:40:28 PKT" name="takeFailedResultScreenshot" finished-at="2025-04-30T14:40:28 PKT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteTask status=SUCCESS method=DeleteTask.deleteTask()[pri:0, instance:tasktracker.tests.login.homepage.DeleteTask@1283bb96] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeFailedResultScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tasktracker.tests.login.homepage.DeleteTask@1283bb96]" started-at="2025-04-30T14:40:28 PKT" name="tearDown" finished-at="2025-04-30T14:40:29 PKT" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tasktracker.tests.login.homepage.DeleteTask -->
+    </test> <!-- Delete Task -->
+  </suite> <!-- Selenium Suite -->
+</testng-results>
